@@ -1,21 +1,27 @@
-Hi, I'm Vinay Jawahrani
+# 👋 Hi, I'm [Your Full Name]
 
-🎓 IT Undergraduate | Batch of 2028  
-📍 Mumbai, India 
+🎓 **IT Undergraduate** | Batch of [2027]  
+📍 [City, State, India]  
 💻 Backend Developer | Data Engineering Enthusiast
 
-🛠️ Tech Stack
+---
 
-- Languages: Python, C/C++, SQL  
-- Frameworks: FastAPI, Django (Learning)  
-- Databases: PostgreSQL, MySQL  
-- Tools: Git, GitHub, Docker, Linux, VS Code  
-- Currently Learning: Data Engineering Pipelines, System Design
+### 🛠️ Tech Stack
 
-📌 Current Project
+- **Languages**: Python, C/C++, SQL  
+- **Frameworks**: FastAPI, Django (Learning)  
+- **Databases**: PostgreSQL, MySQL  
+- **Tools**: Git, GitHub, Docker, Linux, VS Code  
+- **Currently Learning**: Data Engineering Pipelines, System Design
 
-🔨 Social Media Analytics Platform  
+---
+
+### 📌 Current Project
+
+🔨 **Social Media Analytics Platform**  
 > Building a complete backend API with FastAPI + PostgreSQL, and a data pipeline for real-time engagement analytics.
 
+---
 
-“Focused on building scalable systems and clean, efficient code.”
+
+> 🌱 *“Focused on building scalable systems and clean, efficient code.”*

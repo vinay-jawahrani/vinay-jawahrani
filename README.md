@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Full Name]
+# 👋 Hi, I'm Vinay Jawahrani
 
-🎓 **IT Undergraduate** | Batch of [2027]  
-📍 [City, State, India]  
+🎓 **IT Undergraduate** | Batch of [2028]  
+📍 [Mumbai, India]  
 💻 Backend Developer | Data Engineering Enthusiast
 
 ---

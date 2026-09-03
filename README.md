@@ -2,26 +2,30 @@
 
 🎓 **IT Undergraduate** | Batch of [2028]  
 📍 [Mumbai, India]  
-💻 Backend Developer | Data Engineering Enthusiast
+💻 Full-Stack Developer | AI-ML Engineer
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, C/C++, SQL  
-- **Frameworks**: FastAPI, Django (Learning)  
-- **Databases**: PostgreSQL, MySQL  
-- **Tools**: Git, GitHub, Docker, Linux, VS Code  
-- **Currently Learning**: Data Engineering Pipelines, System Design
+Python • C • C++ • TypeScript • JavaScript • SQL
+
+**AI/ML**:
+Scikit-learn • XGBoost • Pandas • NumPy • RAG • LLMs • LangChain
+Google Gemini • Embeddings • Vector Search • Qdrant
+Feature Engineering • Predictive Modeling • Monte Carlo Simulation
+
+**Data**:
+PostgreSQL • dbt • ETL/ELT • Data Modeling • Streamlit
+Plotly • Matplotlib • Seaborn • Business Intelligence
+
+**Web**:
+FastAPI • Node.js • React • Next.js • REST APIs
+WebSockets • SQLAlchemy • Redis • JWT • Tailwind CSS
+
+**DevOps**:
+Docker • Git • GitHub • Linux • Celery • Dagster
+Render • Railway • Vercel
 
 ---
-
-### 📌 Current Project
-
-🔨 **Social Media Analytics Platform**  
-> Building a complete backend API with FastAPI + PostgreSQL, and a data pipeline for real-time engagement analytics.
-
----
-
-
 > 🌱 *“Focused on building scalable systems and clean, efficient code.”*
